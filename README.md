@@ -1,5 +1,5 @@
 # hello-world
 Hello.
 Matthew here.
-Interests right now is Web Development.
+My interest right now is in Web Development.
 Currently I'm learning C# language and ASP.NET framework
